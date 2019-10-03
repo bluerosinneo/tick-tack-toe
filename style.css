@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+
+td {
+    border: 1px solid blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 85px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  td:hover {
+    background: orange;
+  }
+  table {
+    border: 1px solid green;
+  }
+
+  #whoIsUP{
+    font-size: 75px;
+  }
