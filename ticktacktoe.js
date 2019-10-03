@@ -119,9 +119,7 @@
 
                         winCounter = winCounter + 1;
                     }
-                    // else {
-                    //     break
-                    // };
+
                 }
 
                 if(winCounter == 3){
